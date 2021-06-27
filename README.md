@@ -1,14 +1,14 @@
-# product-catalog
+# Product Catalog
 
-Steps to Run this project :
+Steps to Run this project :&nbsp;
 
-Clone or Download this repo
-Execute :  mvn spring-boot:run to run this project
+Clone or Download this repo&nbsp;
+Execute :  mvn spring-boot:run to run this project&nbsp;
 
-Swagger URL : http://localhost:8181/swagger-ui.html
+Swagger URL : http://localhost:8181/swagger-ui.html&nbsp;
 
-Technologies : 
-Springboot 
-Swagger2  
-JDK 1.8 
-Spring-Data JPA (Persistance)
+Technologies&nbsp;
+Springboot 2.5.1&nbsp;
+Swagger2&nbsp; 
+JDK 1.8&nbsp;
+Spring-Data JPA 2.5.1 (Persistance)&nbsp;
